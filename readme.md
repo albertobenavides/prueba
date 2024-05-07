@@ -6,4 +6,4 @@
 Materia como requisito para aprobar el segundo tetra de la MCD, UANL a cargo de [Alberto Benavides](https://github.com/albertobenavides).
 
 ### Tareas
-- [Tarea 1](tareas/tarea1.md)
+- [Tarea 1](tareas/tarea1)
